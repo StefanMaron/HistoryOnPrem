@@ -111,9 +111,6 @@
       "path": "./BaseApp/Source/Base Application/Test Framework"
     },
     {
-      "path": "./PayPalPaymentsStandard/Test/PayPal Payments Standard Tests"
-    },
-    {
       "path": "./Elster/Test/ELSTER VAT Localization for Germany Tests"
     },
     {
@@ -126,10 +123,22 @@
       "path": "./testframework/TestRunner/Test Runner"
     },
     {
-      "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
+      "path": "./system application/test/System Application Test"
+    },
+    {
+      "path": "./system application/test/System Application Test Library"
+    },
+    {
+      "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
+    },
+    {
+      "path": "./system application/source/System Application/Email/src/Test Email"
     },
     {
       "path": "./Email - Outlook REST API/Test"
+    },
+    {
+      "path": "./salesandinventoryforecast/test/Sales and Inventory Forecast Tests"
     },
     {
       "path": "./AMCBanking365Fundamentals/Test/AMC Banking 365 Fundamentals Test Automations"
@@ -150,22 +159,13 @@
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
     },
     {
+      "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
+    },
+    {
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
-    },
-    {
-      "path": "./System Application/Test/System Application Test"
-    },
-    {
-      "path": "./System Application/Test/System Application Test Library"
-    },
-    {
-      "path": "./System Application/Test/System Application Test/Extension Management/testArtifacts"
-    },
-    {
-      "path": "./System Application/Source/System Application/Email/src/Test Email"
     }
   ]
 }
