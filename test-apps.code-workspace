@@ -123,6 +123,9 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/teststabilitytools"
+    },
+    {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
     },
     {
@@ -192,6 +195,9 @@
       "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
     },
     {
+      "path": "./DataSearch/test/Data Search Tests"
+    },
+    {
       "path": "./DataArchive/test/Data Archive Tests"
     },
     {
@@ -202,6 +208,9 @@
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./Intrastat/Test/Intrastat Core Tests"
     }
   ]
 }
