@@ -112,13 +112,31 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
+    },
+    {
+      "path": "./testframework/performancetoolkit/Performance Toolkit Tests/src/Mock Tests"
+    },
+    {
       "path": "./testframework/TestRunner/Test Runner"
+    },
+    {
+      "path": "./INFADepreciation/Test/Fixed Asset Depreciation Tests"
+    },
+    {
+      "path": "./INTaxBase/Test/India Tax Base Tests"
     },
     {
       "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
       "path": "./Email - Outlook REST API/Test"
+    },
+    {
+      "path": "./CompanyHub/Test/Company Hub Tests"
+    },
+    {
+      "path": "./INGateEntry/Test/India Gate Entry Tests"
     },
     {
       "path": "./INGST/Test/India GST Tests"
@@ -136,10 +154,10 @@
       "path": "./INTCS/Test/India TCS Tests"
     },
     {
-      "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
+      "path": "./Onprem Permissions/Test/OnPrem Permissions Tests"
     },
     {
-      "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
+      "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
     },
     {
       "path": "./INTDS/Test/India TDS Tests"
@@ -148,10 +166,10 @@
       "path": "./INTaxEngine/Test/Tax Engine Test"
     },
     {
-      "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
+      "path": "./INReports/Test/India Reports Tests"
     },
     {
-      "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+      "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
       "path": "./System Application/Test/System Application Test"
