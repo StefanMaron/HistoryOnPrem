@@ -216,6 +216,9 @@
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     },
     {
+      "path": "./EU3PartyTradePurchase/test/EU 3-Party Trade Purchase Tests"
+    },
+    {
       "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
     },
     {
@@ -226,6 +229,9 @@
     },
     {
       "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
+    },
+    {
+      "path": "./reviewglentries/Test/_Exclude_Review_General_Ledger_Entries_Tests"
     },
     {
       "path": "./FixedAssetLocalizationForCzech/Test/Fixed Asset Localization for Czech Tests"
@@ -249,13 +255,13 @@
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
-      "path": "./ReviewGLEntries/Test/_Exclude_Review_General_Ledger_Entries_Tests"
-    },
-    {
       "path": "./statisticalaccounts/test/Statistical Accounts Tests"
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./BankAccRecWithAI/Test/Bank Account Reconciliation With AI Tests"
     },
     {
       "path": "./paymentpractices/test/Payment Practices Tests"
