@@ -105,10 +105,10 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
-      "path": "./PayPalPaymentsStandard/Test/PayPalPaymentsStandardTest"
+      "path": "./PayPalPaymentsStandard/Test/PayPal Payments Standard Tests"
     },
     {
-      "path": "./EssentialBusinessHeadlines/Test/EssentialBusinessHeadlinesTest"
+      "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
       "path": "./system application/test/System Application Test"
@@ -120,13 +120,13 @@
       "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
     },
     {
-      "path": "./FIK/Test/FIKTest"
+      "path": "./FIK/Test/Payment and Reconciliation Formats (DK) Tests"
     },
     {
-      "path": "./VATReportsDK/Test/VATReportsDKTest"
+      "path": "./VATReportsDK/Test/Tax File Formats (DK) Tests"
     },
     {
-      "path": "./SalesAndInventoryForecast/Test/SalesAndInventoryForecastTest"
+      "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
       "path": "./TestFramework/TestLibraries"
@@ -135,25 +135,31 @@
       "path": "./TestFramework/TestRunner/Test Runner"
     },
     {
-      "path": "./C52012DataMigration/Test/C52012DataMigrationTest"
+      "path": "./C52012DataMigration/Test/C5 2012 Data Migration Tests"
     },
     {
-      "path": "./WorldPayPaymentsStandard/Test/WorldPayPaymentsStandardTest"
+      "path": "./AMCBanking365Fundamentals/Test/AMC Banking 365 Fundamentals Tests"
     },
     {
-      "path": "./APIV1/Test/APIV1Test"
+      "path": "./WorldPayPaymentsStandard/Test/WorldPay Payments Standard Tests"
     },
     {
-      "path": "./OIOUBL/Test/OIOUBLTest"
+      "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
     },
     {
-      "path": "./ImportDKPayroll/Test/ImportDKPayrollTest"
+      "path": "./OIOUBL/Test/OIOUBL Tests"
     },
     {
-      "path": "./HybridBaseDeployment/Test/HybridBaseDeploymentTest"
+      "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
-      "path": "./HybridBC/Test/HybridBCTest"
+      "path": "./ImportDKPayroll/Test/Payroll Data Import Definitions (DK) Tests"
+    },
+    {
+      "path": "./HybridBaseDeployment/Test/Intelligent Cloud Base Tests"
+    },
+    {
+      "path": "./HybridBC/Test/Business Central Intelligent Cloud Tests"
     }
   ]
 }
