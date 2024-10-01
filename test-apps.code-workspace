@@ -111,6 +111,9 @@
       "path": "./EssentialBusinessHeadlines/Test/EssentialBusinessHeadlinesTest"
     },
     {
+      "path": "./NLDigitalTaxDeclaration/Test/NLDigitalTaxDeclarationTest"
+    },
+    {
       "path": "./SalesAndInventoryForecast/Test/SalesAndInventoryForecastTest"
     },
     {
