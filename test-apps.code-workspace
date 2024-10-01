@@ -139,6 +139,9 @@
       "path": "./system application/source/System Application/Email/src/Test Email"
     },
     {
+      "path": "./AuditFileExport/Test/Audit File Export Tests"
+    },
+    {
       "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
     },
     {
