@@ -111,15 +111,6 @@
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
-      "path": "./system application/test/System Application Test"
-    },
-    {
-      "path": "./system application/test/System Application Test Library"
-    },
-    {
-      "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
-    },
-    {
       "path": "./FIK/Test/Payment and Reconciliation Formats (DK) Tests"
     },
     {
@@ -154,6 +145,15 @@
     },
     {
       "path": "./ImportDKPayroll/Test/Payroll Data Import Definitions (DK) Tests"
+    },
+    {
+      "path": "./System Application/Test/System Application Test"
+    },
+    {
+      "path": "./System Application/Test/System Application Test Library"
+    },
+    {
+      "path": "./System Application/Test/System Application Test/Extension Management/testArtifacts"
     },
     {
       "path": "./HybridBaseDeployment/Test/Intelligent Cloud Base Tests"
