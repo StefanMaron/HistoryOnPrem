@@ -175,6 +175,9 @@
       "path": "./DataArchive/test/Data Archive Tests"
     },
     {
+      "path": "./ReportLayouts/test/Report Layouts Tests"
+    },
+    {
       "path": "./CustomsDeclarationTracking/test/Customs Declaration Tracking for Russia Tests"
     },
     {
