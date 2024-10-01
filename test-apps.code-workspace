@@ -147,6 +147,9 @@
       "path": "./AdvancePaymentsLocalizationForCzech/Test/Advance Payments Localization for Czech Tests"
     },
     {
+      "path": "./AuditFileExport/Test/Audit File Export Tests"
+    },
+    {
       "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
     },
     {
