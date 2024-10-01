@@ -123,6 +123,12 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
+    },
+    {
+      "path": "./testframework/performancetoolkit/Performance Toolkit Tests/src/Mock Tests"
+    },
+    {
       "path": "./testframework/TestRunner/Test Runner"
     },
     {
@@ -133,6 +139,9 @@
     },
     {
       "path": "./Email - Outlook REST API/Test"
+    },
+    {
+      "path": "./CompanyHub/Test/Company Hub Tests"
     },
     {
       "path": "./MX_DIOT/Test/Tests for MX DIOT Extension"
@@ -148,6 +157,9 @@
     },
     {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
+    },
+    {
+      "path": "./Onprem Permissions/Test/OnPrem Permissions Tests"
     },
     {
       "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
