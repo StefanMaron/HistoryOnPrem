@@ -132,6 +132,9 @@
       "path": "./Email - Outlook REST API/Test"
     },
     {
+      "path": "./ElectronicVATSubmission/Test/Electronic VAT submission for Norway Tests"
+    },
+    {
       "path": "./ImportNOPayroll/Test/Payroll Data Import Definition (NO) Tests"
     },
     {
