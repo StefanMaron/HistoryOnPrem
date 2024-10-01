@@ -196,6 +196,9 @@
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
     },
     {
+      "path": "./FECAuditFile/Test/FEC Audit File Tests"
+    },
+    {
       "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
     },
     {
