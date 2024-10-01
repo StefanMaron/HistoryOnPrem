@@ -82,9 +82,6 @@
       "path": "./BaseApp/Test/Tests-SMB"
     },
     {
-      "path": "./BaseApp/Test/Tests-SMTP"
-    },
-    {
       "path": "./BaseApp/Test/Tests-TestLibraries"
     },
     {
@@ -107,6 +104,9 @@
     },
     {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
+    },
+    {
+      "path": "./BankDeposits/Test/_Exclude_Bank Deposits Tests"
     },
     {
       "path": "./uksendremittanceadvice/Test/Send remittance advice by email Tests"
@@ -148,9 +148,6 @@
       "path": "./vatgroupmanagement/test/VAT Group Management Tests"
     },
     {
-      "path": "./CompanyHub/Test/Company Hub Tests"
-    },
-    {
       "path": "./UKMakingTaxDigital/Test/Making Tax Digital Localization for United Kingdom Tests"
     },
     {
@@ -160,10 +157,22 @@
       "path": "./WorldPayPaymentsStandard/Test/WorldPay Payments Standard Tests"
     },
     {
+      "path": "./EmailLogging/Test/_Exclude_Email Logging Using Graph API Tests"
+    },
+    {
       "path": "./QuickbooksPayrollFileImport/Test/Quickbooks Payroll File Import Tests"
     },
     {
+      "path": "./PlanConfiguration/Test/_Exclude_PlanConfiguration_ Tests"
+    },
+    {
       "path": "./onprem permissions/test/OnPrem Permissions Tests"
+    },
+    {
+      "path": "./Email - SMTP API/Test Library/Email - SMTP API Test Library"
+    },
+    {
+      "path": "./Email - SMTP API/Test/Email - SMTP API Tests"
     },
     {
       "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
