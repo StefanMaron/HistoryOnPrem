@@ -76,12 +76,12 @@ $Versions | Sort-Object -Property Country, Version | % {
 
         #Localization folder
         
-        $TargetPathOfVersion = (Join-Path $LocalizationPath (Get-ChildItem -Path $LocalizationPath -filter "Applications.$($country.ToUpper())")[0].Name)
+        $TargetPathOfVersion = (Join-Path $LocalizationPath (Get-ChildItem -Path $LocalizationPath -filter "Applications")[0].Name)
 
-        if (-not (Test-Path $TargetPathOfVersion)) {
-            #Platform Folder
-            $TargetPathOfVersion = (Join-Path $PlatformPath (Get-ChildItem -Path $PlatformPath -filter "Applications")[0].Name)
-        }
+        # if (-not (Test-Path $TargetPathOfVersion)) {
+        #     #Platform Folder
+        #     $TargetPathOfVersion = (Join-Path $PlatformPath (Get-ChildItem -Path $PlatformPath -filter "Applications")[0].Name)
+        # }
         
         & "scripts/UpdateALRepo.ps1" -SourcePath $TargetPathOfVersion -RepoPath (Split-Path $PSScriptRoot -Parent) -Version $version -Localization $country
         & "scripts/BuildTestsWorkSpace.ps1"
