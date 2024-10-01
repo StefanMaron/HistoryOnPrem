@@ -111,15 +111,6 @@
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
-      "path": "./system application/test/System Application Test"
-    },
-    {
-      "path": "./system application/test/System Application Test Library"
-    },
-    {
-      "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
-    },
-    {
       "path": "./NLDigitalTaxDeclaration/Test/Digital Tax Declaration for the Netherlands Tests"
     },
     {
@@ -142,6 +133,15 @@
     },
     {
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
+    },
+    {
+      "path": "./System Application/Test/System Application Test"
+    },
+    {
+      "path": "./System Application/Test/System Application Test Library"
+    },
+    {
+      "path": "./System Application/Test/System Application Test/Extension Management/testArtifacts"
     },
     {
       "path": "./HybridBaseDeployment/Test/Intelligent Cloud Base Tests"
