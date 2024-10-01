@@ -1,10 +1,7 @@
 {
   "folders": [
     {
-      "path": "./shopify/test/Shopify Connector Test"
-    },
-    {
-      "path": "./saleslinessuggestions/test/Sales Lines Suggestions Tests"
+      "path": "./StatisticalAccounts/Test/Statistical Accounts Tests"
     },
     {
       "path": "./BaseApp/Test/Tests-Bank"
@@ -109,7 +106,7 @@
       "path": "./EnvestnetYodleeBankFeeds/Test/Envestnet Yodlee Bank Feeds Tests"
     },
     {
-      "path": "./recommendedapps/test/Recommended Apps Tests"
+      "path": "./PayPalPaymentsStandard/Test/PayPal Payments Standard Tests"
     },
     {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
@@ -118,10 +115,7 @@
       "path": "./BankDeposits/Test/_Exclude_Bank Deposits Tests"
     },
     {
-      "path": "./uksendremittanceadvice/Test/Send remittance advice by email Tests"
-    },
-    {
-      "path": "./testframework/TestLibraries"
+      "path": "./testframework/testlibraries"
     },
     {
       "path": "./testframework/teststabilitytools"
@@ -134,18 +128,6 @@
     },
     {
       "path": "./testframework/TestRunner/Test Runner"
-    },
-    {
-      "path": "./system application/test/System Application Test Library"
-    },
-    {
-      "path": "./system application/test/System Application Test/DisabledTests"
-    },
-    {
-      "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
-    },
-    {
-      "path": "./system application/source/System Application/Email/src/Test Email"
     },
     {
       "path": "./ExternalEvents/test/_Exclude_Business_Events_Test"
@@ -163,13 +145,13 @@
       "path": "./EDocument/Test/E-Document Core Tests"
     },
     {
-      "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
+      "path": "./UKSendRemittanceAdvice/Test/Send remittance advice by email Tests"
+    },
+    {
+      "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
       "path": "./Email - Outlook REST API/Test"
-    },
-    {
-      "path": "./salesandinventoryforecast/test/Sales and Inventory Forecast Tests"
     },
     {
       "path": "./MasterDataManagement/Test Library/_Exclude_Master_Data_Management_Test_Library"
@@ -190,13 +172,22 @@
       "path": "./QuickbooksPayrollFileImport/Test/Quickbooks Payroll File Import Tests"
     },
     {
+      "path": "./SimplifiedBankStatementImport/Test/Simplified Bank Statement Import Test"
+    },
+    {
+      "path": "./FieldServiceIntegration/Test Library/Field Service Integration Test Library"
+    },
+    {
+      "path": "./FieldServiceIntegration/Test/Field Service Integration Test"
+    },
+    {
+      "path": "./Sustainability/Test/Sustainability Tests"
+    },
+    {
       "path": "./PlanConfiguration/Test/_Exclude_PlanConfiguration_ Tests"
     },
     {
-      "path": "./sustainability/test/Sustainability Tests"
-    },
-    {
-      "path": "./onprem permissions/test/OnPrem Permissions Tests"
+      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests"
     },
     {
       "path": "./Email - SMTP API/Test Library/Email - SMTP API Test Library"
@@ -212,6 +203,9 @@
     },
     {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
+    },
+    {
+      "path": "./Onprem Permissions/Test/OnPrem Permissions Tests"
     },
     {
       "path": "./IRSForms/Test Library/IRS Forms Test Library"
@@ -232,16 +226,16 @@
       "path": "./ContosoCoffeeDemoDataset/Test/Contoso Coffee Demo Dataset Tests/src/TestImplementations"
     },
     {
-      "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
-    },
-    {
       "path": "./ImageAnalysis/Test/Image Analyzer Tests"
     },
     {
-      "path": "./reviewglentries/Test/_Exclude_Review_General_Ledger_Entries_Tests"
+      "path": "./Shopify/test/Shopify Connector Test"
     },
     {
       "path": "./DataSearch/test/Data Search Tests"
+    },
+    {
+      "path": "./RecommendedApps/Test/Recommended Apps Tests"
     },
     {
       "path": "./DataArchive/test/Data Archive Tests"
@@ -253,13 +247,13 @@
       "path": "./EnforcedDigitalVouchers/Test/Enforced Digital Vouchers Tests"
     },
     {
-      "path": "./ReportLayouts/test/Report Layouts Tests"
+      "path": "./ReportLayouts/Test/Report Layouts Tests"
     },
     {
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
-      "path": "./statisticalaccounts/test/Statistical Accounts Tests"
+      "path": "./ReviewGLEntries/Test/_Exclude_Review_General_Ledger_Entries_Tests"
     },
     {
       "path": "./IRS1096/Test/IRS 1096 Tests"
@@ -268,10 +262,22 @@
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
     },
     {
-      "path": "./BankAccRecWithAI/Test/Bank Account Reconciliation With AI Tests"
+      "path": "./System Application/Test/System Application Test Library"
     },
     {
-      "path": "./paymentpractices/test/Payment Practices Tests"
+      "path": "./System Application/Test/System Application Test/DisabledTests"
+    },
+    {
+      "path": "./System Application/Test/System Application Test/Extension Management/testArtifacts"
+    },
+    {
+      "path": "./System Application/Source/System Application/Email/src/Test Email"
+    },
+    {
+      "path": "./PaymentPractices/Test/Payment Practices Tests"
+    },
+    {
+      "path": "./BankAccRecWithAI/Test/Bank Account Reconciliation With AI Tests"
     }
   ],
   "settings": {
