@@ -109,6 +109,9 @@
       "path": "./recommendedapps/test/Recommended Apps Tests"
     },
     {
+      "path": "./saf-t/test/SAF-T Tests"
+    },
+    {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
@@ -218,6 +221,9 @@
     },
     {
       "path": "./ServiceDeclarationFR/Test/Service Declaration FR Tests"
+    },
+    {
+      "path": "./paymentpractices/test/Payment Practices Tests"
     }
   ],
   "settings": {
