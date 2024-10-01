@@ -108,6 +108,9 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
+      "path": "./BaseApp/Source/Base Application/System/DevTools/CALTest"
+    },
+    {
       "path": "./recommendedapps/test/Recommended Apps Tests"
     },
     {
@@ -154,6 +157,12 @@
     },
     {
       "path": "./AuditFileExport/Test/Audit File Export Tests"
+    },
+    {
+      "path": "./EDocument/Test/E-Document Core Tests"
+    },
+    {
+      "path": "./EDocument/Test/E-Document Core Tests/src/TestImplementations"
     },
     {
       "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
@@ -247,9 +256,6 @@
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
-    },
-    {
-      "path": "./Intrastat/Test/Intrastat Core Tests"
     },
     {
       "path": "./paymentpractices/test/Payment Practices Tests"
