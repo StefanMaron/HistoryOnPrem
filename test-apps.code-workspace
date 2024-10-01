@@ -218,6 +218,9 @@
     },
     {
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
+    },
+    {
+      "path": "./paymentpractices/test/Payment Practices Tests"
     }
   ],
   "settings": {
