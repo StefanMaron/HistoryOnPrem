@@ -147,6 +147,9 @@
       "path": "./AdvancePaymentsLocalizationForCzech/Test/Advance Payments Localization for Czech Tests"
     },
     {
+      "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
+    },
+    {
       "path": "./CashDeskLocalizationForCzech/Test/Cash Desk Localization for Czech Tests"
     },
     {
