@@ -103,15 +103,6 @@
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
-      "path": "./system application/test/System Application Test"
-    },
-    {
-      "path": "./system application/test/System Application Test Library"
-    },
-    {
-      "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
-    },
-    {
       "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
@@ -121,7 +112,7 @@
       "path": "./TestFramework/TestRunner/Test Runner"
     },
     {
-      "path": "./AMCBanking365Fundamentals/Test/AMC Banking 365 Fundamentals Tests"
+      "path": "./AMCBanking365Fundamentals/Test/AMC Banking 365 Fundamentals Test Automations"
     },
     {
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
@@ -130,10 +121,19 @@
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
-      "path": "./HybridBaseDeployment/Test/Intelligent Cloud Base Tests"
+      "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
     },
     {
-      "path": "./HybridBC/Test/Business Central Intelligent Cloud Tests"
+      "path": "./System Application/Test/System Application Test"
+    },
+    {
+      "path": "./System Application/Test/System Application Test Library"
+    },
+    {
+      "path": "./System Application/Test/System Application Test/Extension Management/testArtifacts"
+    },
+    {
+      "path": "./System Application/Source/System Application/Email/src/Test Email"
     }
   ],
   "settings": {
