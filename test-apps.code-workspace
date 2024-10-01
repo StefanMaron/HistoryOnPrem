@@ -126,6 +126,9 @@
       "path": "./TestFramework/TestRunner/Test Runner"
     },
     {
+      "path": "./MX_DIOT/Test/MX_DIOTTest"
+    },
+    {
       "path": "./QuickbooksPayrollFileImport/Test/QuickbooksPayrollFileImportTest"
     },
     {
