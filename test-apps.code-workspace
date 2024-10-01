@@ -206,6 +206,9 @@
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./paymentpractices/test/Payment Practices Tests"
     }
   ],
   "settings": {
