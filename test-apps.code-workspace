@@ -49,6 +49,9 @@
       "path": "./BaseApp/Test/Tests-Misc"
     },
     {
+      "path": "./BaseApp/Test/Tests-Monitor Sensitive Fields"
+    },
+    {
       "path": "./BaseApp/Test/Tests-Permissions"
     },
     {
@@ -97,10 +100,19 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
+      "path": "./BaseApp/Source/Base Application/Test Framework"
+    },
+    {
       "path": "./PayPalPaymentsStandard/Test/PayPal Payments Standard Tests"
     },
     {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
+    },
+    {
+      "path": "./testframework/TestLibraries"
+    },
+    {
+      "path": "./testframework/TestRunner/Test Runner"
     },
     {
       "path": "./UKPostcodeGetAddressIO/Test/GetAddress.io UK Postcodes Tests"
@@ -112,10 +124,7 @@
       "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
-      "path": "./TestFramework/TestLibraries"
-    },
-    {
-      "path": "./TestFramework/TestRunner/Test Runner"
+      "path": "./Email - Outlook REST API/Test"
     },
     {
       "path": "./UKMakingTaxDigital/Test/Making Tax Digital Localization for United Kingdom Tests"
@@ -128,6 +137,15 @@
     },
     {
       "path": "./QuickbooksPayrollFileImport/Test/Quickbooks Payroll File Import Tests"
+    },
+    {
+      "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
+    },
+    {
+      "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
+    },
+    {
+      "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
     },
     {
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
