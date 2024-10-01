@@ -144,6 +144,12 @@
       "path": "./system application/source/System Application/Email/src/Test Email"
     },
     {
+      "path": "./IntrastatIT/Test/Intrastat IT Tests"
+    },
+    {
+      "path": "./ServiceDeclarationIT/Test/Service Declaration IT Tests"
+    },
+    {
       "path": "./AuditFileExport/Test/Audit File Export Tests"
     },
     {
