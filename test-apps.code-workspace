@@ -202,6 +202,9 @@
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
+      "path": "./IRS1096/Test/IRS 1096 Tests"
+    },
+    {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
     }
   ],
