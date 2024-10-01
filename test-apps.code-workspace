@@ -139,6 +139,9 @@
       "path": "./INFADepreciation/Test/Fixed Asset Depreciation Tests"
     },
     {
+      "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
+    },
+    {
       "path": "./INTaxBase/Test/India Tax Base Tests"
     },
     {
