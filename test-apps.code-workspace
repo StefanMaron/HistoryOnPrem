@@ -129,6 +129,9 @@
       "path": "./TestFramework/TestRunner/Test Runner"
     },
     {
+      "path": "./SwissQRBill/Test/SwissQRBillTest"
+    },
+    {
       "path": "./APIV1/Test/APIV1Test"
     },
     {
