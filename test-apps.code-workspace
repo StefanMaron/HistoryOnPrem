@@ -142,6 +142,9 @@
       "path": "./UKPostcodeGetAddressIO/Test/GetAddress.io UK Postcodes Tests"
     },
     {
+      "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
+    },
+    {
       "path": "./Email - Outlook REST API/Test"
     },
     {
