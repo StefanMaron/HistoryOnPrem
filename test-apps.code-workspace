@@ -144,6 +144,9 @@
       "path": "./system application/source/System Application/Email/src/Test Email"
     },
     {
+      "path": "./ExternalEvents/test/_Exclude_Business_Events_Test"
+    },
+    {
       "path": "./IntrastatIT/Test/Intrastat IT Tests"
     },
     {
