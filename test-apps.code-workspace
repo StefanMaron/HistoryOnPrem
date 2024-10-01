@@ -139,6 +139,9 @@
       "path": "./INFADepreciation/Test/Fixed Asset Depreciation Tests"
     },
     {
+      "path": "./ExternalEvents/test/_Exclude_Business_Events_Test"
+    },
+    {
       "path": "./AuditFileExport/Test/Audit File Export Tests"
     },
     {
