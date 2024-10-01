@@ -123,6 +123,12 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
+    },
+    {
+      "path": "./testframework/performancetoolkit/Performance Toolkit Tests/src/Mock Tests"
+    },
+    {
       "path": "./testframework/TestRunner/Test Runner"
     },
     {
@@ -135,6 +141,9 @@
       "path": "./SwissQRBill/Test/QR-Bill Management for Switzerland Tests"
     },
     {
+      "path": "./CompanyHub/Test/Company Hub Tests"
+    },
+    {
       "path": "./AMCBanking365Fundamentals/Test/AMC Banking 365 Fundamentals Test Automations"
     },
     {
@@ -142,6 +151,9 @@
     },
     {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
+    },
+    {
+      "path": "./Onprem Permissions/Test/OnPrem Permissions Tests"
     },
     {
       "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
