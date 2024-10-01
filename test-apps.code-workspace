@@ -162,7 +162,16 @@
       "path": "./AMCBanking365Fundamentals/Test/AMC Banking 365 Fundamentals Test Automations"
     },
     {
+      "path": "./EmailLogging/Test/_Exclude_Email Logging Using Graph API Tests"
+    },
+    {
       "path": "./onprem permissions/test/OnPrem Permissions Tests"
+    },
+    {
+      "path": "./Email - SMTP API/Test Library/Email - SMTP API Test Library"
+    },
+    {
+      "path": "./Email - SMTP API/Test/Email - SMTP API Tests"
     },
     {
       "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
