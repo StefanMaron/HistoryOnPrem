@@ -105,13 +105,13 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
-      "path": "./EnvestnetYodleeBankFeeds/Test/EnvestnetYodleeBankFeedsTest"
+      "path": "./EnvestnetYodleeBankFeeds/Test/Envestnet Yodlee Bank Feeds Tests"
     },
     {
-      "path": "./PayPalPaymentsStandard/Test/PayPalPaymentsStandardTest"
+      "path": "./PayPalPaymentsStandard/Test/PayPal Payments Standard Tests"
     },
     {
-      "path": "./EssentialBusinessHeadlines/Test/EssentialBusinessHeadlinesTest"
+      "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
       "path": "./system application/test/System Application Test"
@@ -123,10 +123,10 @@
       "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
     },
     {
-      "path": "./UKSendRemittanceAdvice/Test/UKSendRemittanceAdviceTest"
+      "path": "./UKSendRemittanceAdvice/Test/Send remittance advice by email Tests"
     },
     {
-      "path": "./SalesAndInventoryForecast/Test/SalesAndInventoryForecastTest"
+      "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
       "path": "./TestFramework/TestLibraries"
@@ -135,22 +135,28 @@
       "path": "./TestFramework/TestRunner/Test Runner"
     },
     {
-      "path": "./MX_DIOT/Test/MX_DIOTTest"
+      "path": "./MX_DIOT/Test/Tests for MX DIOT Extension"
     },
     {
-      "path": "./QuickbooksPayrollFileImport/Test/QuickbooksPayrollFileImportTest"
+      "path": "./AMCBanking365Fundamentals/Test/AMC Banking 365 Fundamentals Tests"
     },
     {
-      "path": "./APIV1/Test/APIV1Test"
+      "path": "./QuickbooksPayrollFileImport/Test/Quickbooks Payroll File Import Tests"
     },
     {
-      "path": "./ImageAnalysis/Test/ImageAnalysisTest"
+      "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
     },
     {
-      "path": "./HybridBaseDeployment/Test/HybridBaseDeploymentTest"
+      "path": "./ImageAnalysis/Test/Image Analyzer Tests"
     },
     {
-      "path": "./HybridBC/Test/HybridBCTest"
+      "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
+    },
+    {
+      "path": "./HybridBaseDeployment/Test/Intelligent Cloud Base Tests"
+    },
+    {
+      "path": "./HybridBC/Test/Business Central Intelligent Cloud Tests"
     }
   ]
 }
