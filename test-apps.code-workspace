@@ -123,6 +123,9 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/teststabilitytools"
+    },
+    {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
     },
     {
@@ -193,6 +196,9 @@
     },
     {
       "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
+    },
+    {
+      "path": "./DataSearch/test/Data Search Tests"
     },
     {
       "path": "./DataArchive/test/Data Archive Tests"
