@@ -163,6 +163,9 @@
       "path": "./EmailLogging/Test/_Exclude_Email Logging Using Graph API Tests"
     },
     {
+      "path": "./INChargeGroup/Test/India Charge Group Tests"
+    },
+    {
       "path": "./PlanConfiguration/Test/_Exclude_PlanConfiguration_ Tests"
     },
     {
