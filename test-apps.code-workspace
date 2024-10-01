@@ -111,6 +111,9 @@
       "path": "./recommendedapps/test/Recommended Apps Tests"
     },
     {
+      "path": "./saf-t/test/SAF-T Tests"
+    },
+    {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
