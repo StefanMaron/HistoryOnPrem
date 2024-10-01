@@ -57,6 +57,9 @@
       "path": "./BaseApp/Test/Tests-Misc"
     },
     {
+      "path": "./BaseApp/Test/Tests-Monitor Sensitive Fields"
+    },
+    {
       "path": "./BaseApp/Test/Tests-Permissions"
     },
     {
@@ -105,6 +108,9 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
+      "path": "./BaseApp/Source/Base Application/Test Framework"
+    },
+    {
       "path": "./EnvestnetYodleeBankFeeds/Test/Envestnet Yodlee Bank Feeds Tests"
     },
     {
@@ -114,16 +120,19 @@
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
+      "path": "./testframework/TestLibraries"
+    },
+    {
+      "path": "./testframework/TestRunner/Test Runner"
+    },
+    {
       "path": "./UKSendRemittanceAdvice/Test/Send remittance advice by email Tests"
     },
     {
       "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
-      "path": "./TestFramework/TestLibraries"
-    },
-    {
-      "path": "./TestFramework/TestRunner/Test Runner"
+      "path": "./Email - Outlook REST API/Test"
     },
     {
       "path": "./MX_DIOT/Test/Tests for MX DIOT Extension"
@@ -133,6 +142,15 @@
     },
     {
       "path": "./QuickbooksPayrollFileImport/Test/Quickbooks Payroll File Import Tests"
+    },
+    {
+      "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
+    },
+    {
+      "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
+    },
+    {
+      "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
     },
     {
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
