@@ -202,6 +202,9 @@
       "path": "./ImageAnalysis/Test/Image Analyzer Tests"
     },
     {
+      "path": "./IntrastatGB/Test/Intrastat GB Tests"
+    },
+    {
       "path": "./DataSearch/test/Data Search Tests"
     },
     {
@@ -215,6 +218,9 @@
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./Intrastat/Test/Intrastat Core Tests"
     }
   ],
   "settings": {
