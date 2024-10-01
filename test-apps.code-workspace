@@ -202,6 +202,12 @@
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     },
     {
+      "path": "./IRSForms/Test Library/IRS Forms Test Library"
+    },
+    {
+      "path": "./IRSForms/Test/IRS Forms Tests"
+    },
+    {
       "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
     },
     {
