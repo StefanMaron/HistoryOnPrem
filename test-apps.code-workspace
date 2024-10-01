@@ -178,6 +178,9 @@
       "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
     },
     {
+      "path": "./ErrorMessagesWithRecommendations/test/Error Messages with Recommendations Tests"
+    },
+    {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     },
     {
