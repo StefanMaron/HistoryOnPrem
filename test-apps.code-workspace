@@ -100,6 +100,9 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
+      "path": "./BaseApp/Source/Base Application/System/DevTools/CALTest"
+    },
+    {
       "path": "./EnvestnetYodleeBankFeeds/Test/Envestnet Yodlee Bank Feeds Tests"
     },
     {
