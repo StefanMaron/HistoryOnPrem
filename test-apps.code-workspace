@@ -97,10 +97,10 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
-      "path": "./PayPalPaymentsStandard/Test/PayPalPaymentsStandardTest"
+      "path": "./PayPalPaymentsStandard/Test/PayPal Payments Standard Tests"
     },
     {
-      "path": "./EssentialBusinessHeadlines/Test/EssentialBusinessHeadlinesTest"
+      "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
       "path": "./system application/test/System Application Test"
@@ -112,7 +112,7 @@
       "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
     },
     {
-      "path": "./SalesAndInventoryForecast/Test/SalesAndInventoryForecastTest"
+      "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
       "path": "./TestFramework/TestLibraries"
@@ -121,13 +121,19 @@
       "path": "./TestFramework/TestRunner/Test Runner"
     },
     {
-      "path": "./APIV1/Test/APIV1Test"
+      "path": "./AMCBanking365Fundamentals/Test/AMC Banking 365 Fundamentals Tests"
     },
     {
-      "path": "./HybridBaseDeployment/Test/HybridBaseDeploymentTest"
+      "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
     },
     {
-      "path": "./HybridBC/Test/HybridBCTest"
+      "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
+    },
+    {
+      "path": "./HybridBaseDeployment/Test/Intelligent Cloud Base Tests"
+    },
+    {
+      "path": "./HybridBC/Test/Business Central Intelligent Cloud Tests"
     }
   ],
   "settings": {
