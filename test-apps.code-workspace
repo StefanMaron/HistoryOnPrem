@@ -9,6 +9,9 @@
   },
   "folders": [
     {
+      "path": "./VATGroupManagement/Test/VATGroupManagementTest"
+    },
+    {
       "path": "./BaseApp/Test/Tests-Bank"
     },
     {
