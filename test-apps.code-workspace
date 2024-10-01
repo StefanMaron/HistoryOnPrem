@@ -114,15 +114,6 @@
       "path": "./EssentialBusinessHeadlines/Test/EssentialBusinessHeadlinesTest"
     },
     {
-      "path": "./system application/test/System Application Test"
-    },
-    {
-      "path": "./system application/test/System Application Test Library"
-    },
-    {
-      "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
-    },
-    {
       "path": "./UKSendRemittanceAdvice/Test/UKSendRemittanceAdviceTest"
     },
     {
@@ -145,6 +136,15 @@
     },
     {
       "path": "./ImageAnalysis/Test/ImageAnalysisTest"
+    },
+    {
+      "path": "./System Application/Test/System Application Test"
+    },
+    {
+      "path": "./System Application/Test/System Application Test Library"
+    },
+    {
+      "path": "./System Application/Test/System Application Test/Extension Management/testArtifacts"
     },
     {
       "path": "./HybridBaseDeployment/Test/HybridBaseDeploymentTest"
