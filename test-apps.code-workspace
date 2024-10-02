@@ -4,6 +4,9 @@
       "path": "./shopify/test/Shopify Connector Test"
     },
     {
+      "path": "./saleslinessuggestions/test/Sales Lines Suggestions Tests"
+    },
+    {
       "path": "./BaseApp/Test/Tests-Bank"
     },
     {
@@ -130,10 +133,10 @@
       "path": "./testframework/TestRunner/Test Runner"
     },
     {
-      "path": "./system application/test/System Application Test"
+      "path": "./system application/test/System Application Test Library"
     },
     {
-      "path": "./system application/test/System Application Test Library"
+      "path": "./system application/test/System Application Test/DisabledTests"
     },
     {
       "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
@@ -146,6 +149,12 @@
     },
     {
       "path": "./AuditFileExport/Test/Audit File Export Tests"
+    },
+    {
+      "path": "./BusinessFoundation/Test/Business Foundation Test Libraries"
+    },
+    {
+      "path": "./BusinessFoundation/Test/Business Foundation Tests"
     },
     {
       "path": "./UKPostcodeGetAddressIO/Test/GetAddress.io UK Postcodes Tests"
@@ -190,6 +199,9 @@
       "path": "./PlanConfiguration/Test/_Exclude_PlanConfiguration_ Tests"
     },
     {
+      "path": "./sustainability/test/Sustainability Tests"
+    },
+    {
       "path": "./onprem permissions/test/OnPrem Permissions Tests"
     },
     {
@@ -215,6 +227,12 @@
     },
     {
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
+    },
+    {
+      "path": "./ContosoCoffeeDemoDataset/Test/Contoso Coffee Demo Dataset Tests"
+    },
+    {
+      "path": "./ContosoCoffeeDemoDataset/Test/Contoso Coffee Demo Dataset Tests/src/TestImplementations"
     },
     {
       "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
