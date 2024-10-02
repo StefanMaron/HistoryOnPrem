@@ -138,6 +138,9 @@
       "path": "./salesandinventoryforecast/test/Sales and Inventory Forecast Tests"
     },
     {
+      "path": "./vatgroupmanagement/test/VAT Group Management Tests"
+    },
+    {
       "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
     },
     {
