@@ -1,11 +1,11 @@
 {
   "settings": {
     "al.enableCodeActions": false,
-    "allint.enabled": false,
+    "al.enableCodeAnalysis": false,
     "search.exclude": {
       "**.xlf": true
     },
-    "al.enableCodeAnalysis": false
+    "allint.enabled": false
   },
   "folders": [
     {
@@ -123,6 +123,9 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/teststabilitytools"
+    },
+    {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
     },
     {
@@ -190,6 +193,9 @@
     },
     {
       "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
+    },
+    {
+      "path": "./DataSearch/test/Data Search Tests"
     },
     {
       "path": "./DataArchive/test/Data Archive Tests"
