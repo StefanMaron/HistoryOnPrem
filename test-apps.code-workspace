@@ -82,6 +82,9 @@
       "path": "./BaseApp/Test/Tests-SCM"
     },
     {
+      "path": "./BaseApp/Test/Tests-Service"
+    },
+    {
       "path": "./BaseApp/Test/Tests-SINGLESERVER"
     },
     {
@@ -115,10 +118,19 @@
       "path": "./BankDeposits/Test/_Exclude_Bank Deposits Tests"
     },
     {
+      "path": "./SubscriptionBilling/Test/Subscription & Recurring Billing Tests"
+    },
+    {
       "path": "./testframework/testlibraries"
     },
     {
       "path": "./testframework/teststabilitytools"
+    },
+    {
+      "path": "./testframework/aitesttoolkit/AI Test Toolkit"
+    },
+    {
+      "path": "./testframework/aitesttoolkit/AI Test Toolkit/src/TestSuite"
     },
     {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
@@ -130,10 +142,16 @@
       "path": "./testframework/TestRunner/Test Runner"
     },
     {
+      "path": "./testframework/TestRunner/Test Runner/src/DataDrivenTest"
+    },
+    {
       "path": "./ExternalEvents/test/_Exclude_Business_Events_Test"
     },
     {
       "path": "./AdvancePaymentsLocalizationForCzech/Test/Advance Payments Localization for Czech Tests"
+    },
+    {
+      "path": "./PowerBIReports/Test/PowerBI Reports Tests"
     },
     {
       "path": "./AuditFileExport/Test/Audit File Export Tests"
@@ -184,7 +202,10 @@
       "path": "./PlanConfiguration/Test/_Exclude_PlanConfiguration_ Tests"
     },
     {
-      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests"
+      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests/AI Tests"
+    },
+    {
+      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests/AttachmentHandlerPromptTests"
     },
     {
       "path": "./Email - SMTP API/Test Library/Email - SMTP API Test Library"
@@ -205,6 +226,9 @@
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     },
     {
+      "path": "./ExcelReports/Test/Dynamics BC Excel Reports Tests"
+    },
+    {
       "path": "./Onprem Permissions/Test/OnPrem Permissions Tests"
     },
     {
@@ -221,6 +245,12 @@
     },
     {
       "path": "./CoreLocalizationPackForCzech/Test/Core Localization Pack for Czech Tests"
+    },
+    {
+      "path": "./ContosoCoffeeDemoDataset/Test/Contoso Coffee Demo Dataset Tests"
+    },
+    {
+      "path": "./ContosoCoffeeDemoDataset/Test/Contoso Coffee Demo Dataset Tests/src/TestImplementations"
     },
     {
       "path": "./EDocument Core/Test/E-Document Core Tests"
