@@ -1,12 +1,4 @@
 {
-  "settings": {
-    "al.enableCodeActions": false,
-    "allint.enabled": false,
-    "al.enableCodeAnalysis": false,
-    "search.exclude": {
-      "**.xlf": true
-    }
-  },
   "folders": [
     {
       "path": "./shopify/test/Shopify Connector Test"
@@ -123,6 +115,9 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/teststabilitytools"
+    },
+    {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
     },
     {
@@ -186,6 +181,9 @@
       "path": "./paypalpaymentsstandard/test/PayPal Payments Standard Tests"
     },
     {
+      "path": "./DataSearch/test/Data Search Tests"
+    },
+    {
       "path": "./DataArchive/test/Data Archive Tests"
     },
     {
@@ -196,6 +194,17 @@
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./Intrastat/Test/Intrastat Core Tests"
     }
-  ]
+  ],
+  "settings": {
+    "allint.enabled": false,
+    "search.exclude": {
+      "**.xlf": true
+    },
+    "al.enableCodeAnalysis": false,
+    "al.enableCodeActions": false
+  }
 }
