@@ -142,6 +142,9 @@
       "path": "./system application/source/System Application/Email/src/Test Email"
     },
     {
+      "path": "./AuditFileExport/Test/Audit File Export Tests"
+    },
+    {
       "path": "./UKPostcodeGetAddressIO/Test/GetAddress.io UK Postcodes Tests"
     },
     {
