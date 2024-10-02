@@ -57,6 +57,9 @@
       "path": "./BaseApp/Test/Tests-Misc"
     },
     {
+      "path": "./BaseApp/Test/Tests-Monitor Sensitive Fields"
+    },
+    {
       "path": "./BaseApp/Test/Tests-Permissions"
     },
     {
@@ -105,7 +108,16 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
+      "path": "./BaseApp/Source/Base Application/Test Framework"
+    },
+    {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
+    },
+    {
+      "path": "./testframework/TestLibraries"
+    },
+    {
+      "path": "./testframework/TestRunner/Test Runner"
     },
     {
       "path": "./system application/test/System Application Test"
@@ -120,13 +132,19 @@
       "path": "./system application/source/System Application/Email/src/Test Email"
     },
     {
+      "path": "./Email - Outlook REST API/Test"
+    },
+    {
       "path": "./salesandinventoryforecast/test/Sales and Inventory Forecast Tests"
     },
     {
-      "path": "./TestFramework/TestLibraries"
+      "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
     },
     {
-      "path": "./TestFramework/TestRunner/Test Runner"
+      "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
+    },
+    {
+      "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
     },
     {
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
