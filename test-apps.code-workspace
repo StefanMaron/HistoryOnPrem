@@ -233,6 +233,9 @@
     },
     {
       "path": "./statisticalaccounts/test/Statistical Accounts Tests"
+    },
+    {
+      "path": "./paymentpractices/test/Payment Practices Tests"
     }
   ],
   "settings": {
