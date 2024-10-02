@@ -142,9 +142,6 @@
       "path": "./BusinessFoundation/Test/Business Foundation Tests"
     },
     {
-      "path": "./EDocument/Test/E-Document Core Tests"
-    },
-    {
       "path": "./INTaxBase/Test/India Tax Base Tests"
     },
     {
@@ -227,6 +224,9 @@
     },
     {
       "path": "./INTaxEngine/Test/Tax Engine Test"
+    },
+    {
+      "path": "./EDocument Core/Test/E-Document Core Tests"
     },
     {
       "path": "./INReports/Test/India Reports Tests"
