@@ -103,6 +103,9 @@
       "path": "./BaseApp/Source/Base Application/Test Framework"
     },
     {
+      "path": "./servicedeclaration/test/Service Declaration Tests"
+    },
+    {
       "path": "./recommendedapps/test/Recommended Apps Tests"
     },
     {
