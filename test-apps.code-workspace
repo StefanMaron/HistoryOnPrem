@@ -1,4 +1,12 @@
 {
+  "settings": {
+    "allint.enabled": false,
+    "search.exclude": {
+      "**.xlf": true
+    },
+    "al.enableCodeAnalysis": false,
+    "al.enableCodeActions": false
+  },
   "folders": [
     {
       "path": "./StatisticalAccounts/Test/Statistical Accounts Tests"
@@ -142,9 +150,6 @@
       "path": "./BusinessFoundation/Test/Business Foundation Tests"
     },
     {
-      "path": "./EDocument/Test/E-Document Core Tests"
-    },
-    {
       "path": "./UKSendRemittanceAdvice/Test/Send remittance advice by email Tests"
     },
     {
@@ -220,6 +225,9 @@
       "path": "./ContosoCoffeeDemoDataset/Test/Contoso Coffee Demo Dataset Tests/src/TestImplementations"
     },
     {
+      "path": "./EDocument Core/Test/E-Document Core Tests"
+    },
+    {
       "path": "./ImageAnalysis/Test/Image Analyzer Tests"
     },
     {
@@ -270,13 +278,5 @@
     {
       "path": "./BankAccRecWithAI/Test/Bank Account Reconciliation With AI Tests"
     }
-  ],
-  "settings": {
-    "al.enableCodeAnalysis": false,
-    "allint.enabled": false,
-    "al.enableCodeActions": false,
-    "search.exclude": {
-      "**.xlf": true
-    }
-  }
+  ]
 }
