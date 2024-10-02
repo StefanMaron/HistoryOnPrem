@@ -199,6 +199,9 @@
       "path": "./DataArchive/test/Data Archive Tests"
     },
     {
+      "path": "./ReportLayouts/test/Report Layouts Tests"
+    },
+    {
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
