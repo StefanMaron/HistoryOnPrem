@@ -150,9 +150,6 @@
       "path": "./BusinessFoundation/Test/Business Foundation Tests"
     },
     {
-      "path": "./EDocument/Test/E-Document Core Tests"
-    },
-    {
       "path": "./NLDigitalTaxDeclaration/Test/Digital Tax Declaration for the Netherlands Tests"
     },
     {
@@ -226,6 +223,9 @@
     },
     {
       "path": "./ContosoCoffeeDemoDataset/Test/Contoso Coffee Demo Dataset Tests/src/TestImplementations"
+    },
+    {
+      "path": "./EDocument Core/Test/E-Document Core Tests"
     },
     {
       "path": "./Shopify/test/Shopify Connector Test"
