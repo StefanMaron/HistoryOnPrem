@@ -151,6 +151,12 @@
       "path": "./AuditFileExport/Test/Audit File Export Tests"
     },
     {
+      "path": "./EDocument/Test/E-Document Core Tests"
+    },
+    {
+      "path": "./EDocument/Test/E-Document Core Tests/src/TestImplementations"
+    },
+    {
       "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
     },
     {
@@ -211,6 +217,9 @@
       "path": "./ImageAnalysis/Test/Image Analyzer Tests"
     },
     {
+      "path": "./reviewglentries/Test/_Exclude_Review_General_Ledger_Entries_Tests"
+    },
+    {
       "path": "./DataSearch/test/Data Search Tests"
     },
     {
@@ -223,13 +232,13 @@
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
     },
     {
-      "path": "./ReviewGLEntries/Test/_Exclude_Review_General_Ledger_Entries_Tests"
-    },
-    {
       "path": "./statisticalaccounts/test/Statistical Accounts Tests"
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./BankAccRecWithAI/Test/Bank Account Reconciliation With AI Tests"
     },
     {
       "path": "./paymentpractices/test/Payment Practices Tests"
