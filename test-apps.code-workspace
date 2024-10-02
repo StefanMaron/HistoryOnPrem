@@ -79,6 +79,9 @@
       "path": "./BaseApp/Test/Tests-SCM"
     },
     {
+      "path": "./BaseApp/Test/Tests-Service"
+    },
+    {
       "path": "./BaseApp/Test/Tests-SINGLESERVER"
     },
     {
@@ -112,10 +115,19 @@
       "path": "./BankDeposits/Test/_Exclude_Bank Deposits Tests"
     },
     {
+      "path": "./SubscriptionBilling/Test/Subscription & Recurring Billing Tests"
+    },
+    {
       "path": "./testframework/testlibraries"
     },
     {
       "path": "./testframework/teststabilitytools"
+    },
+    {
+      "path": "./testframework/aitesttoolkit/AI Test Toolkit"
+    },
+    {
+      "path": "./testframework/aitesttoolkit/AI Test Toolkit/src/TestSuite"
     },
     {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
@@ -127,10 +139,16 @@
       "path": "./testframework/TestRunner/Test Runner"
     },
     {
+      "path": "./testframework/TestRunner/Test Runner/src/DataDrivenTest"
+    },
+    {
       "path": "./INFADepreciation/Test/Fixed Asset Depreciation Tests"
     },
     {
       "path": "./ExternalEvents/test/_Exclude_Business_Events_Test"
+    },
+    {
+      "path": "./PowerBIReports/Test/PowerBI Reports Tests"
     },
     {
       "path": "./AuditFileExport/Test/Audit File Export Tests"
@@ -184,7 +202,10 @@
       "path": "./PlanConfiguration/Test/_Exclude_PlanConfiguration_ Tests"
     },
     {
-      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests"
+      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests/AI Tests"
+    },
+    {
+      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests/AttachmentHandlerPromptTests"
     },
     {
       "path": "./Email - SMTP API/Test Library/Email - SMTP API Test Library"
@@ -203,6 +224,9 @@
     },
     {
       "path": "./INVoucherInterface/Test/India Voucher Interface Tests"
+    },
+    {
+      "path": "./ExcelReports/Test/Dynamics BC Excel Reports Tests"
     },
     {
       "path": "./INTCS/Test/India TCS Tests"
@@ -257,6 +281,9 @@
     },
     {
       "path": "./ReviewGLEntries/Test/_Exclude_Review_General_Ledger_Entries_Tests"
+    },
+    {
+      "path": "./Intrastat/Test/Intrastat Core Tests"
     },
     {
       "path": "./System Application/Test/System Application Test Library"
