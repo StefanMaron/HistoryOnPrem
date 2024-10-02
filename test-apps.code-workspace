@@ -142,9 +142,6 @@
       "path": "./BusinessFoundation/Test/Business Foundation Tests"
     },
     {
-      "path": "./EDocument/Test/E-Document Core Tests"
-    },
-    {
       "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
     },
     {
@@ -200,6 +197,9 @@
     },
     {
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
+    },
+    {
+      "path": "./EDocument Core/Test/E-Document Core Tests"
     },
     {
       "path": "./Shopify/test/Shopify Connector Test"
