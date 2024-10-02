@@ -117,6 +117,12 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
+    },
+    {
+      "path": "./testframework/performancetoolkit/Performance Toolkit Tests/src/Mock Tests"
+    },
+    {
       "path": "./testframework/TestRunner/Test Runner"
     },
     {
@@ -139,6 +145,12 @@
     },
     {
       "path": "./vatgroupmanagement/test/VAT Group Management Tests"
+    },
+    {
+      "path": "./CompanyHub/Test/Company Hub Tests"
+    },
+    {
+      "path": "./onprem permissions/test/OnPrem Permissions Tests"
     },
     {
       "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
