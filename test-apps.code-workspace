@@ -208,6 +208,9 @@
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./Intrastat/Test/Intrastat Core Tests"
     }
   ]
 }
