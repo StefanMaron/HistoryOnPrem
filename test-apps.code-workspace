@@ -100,6 +100,9 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
+      "path": "./BaseApp/Source/Base Application/System/DevTools/CALTest"
+    },
+    {
       "path": "./recommendedapps/test/Recommended Apps Tests"
     },
     {
@@ -146,6 +149,12 @@
     },
     {
       "path": "./UKPostcodeGetAddressIO/Test/GetAddress.io UK Postcodes Tests"
+    },
+    {
+      "path": "./EDocument/Test/E-Document Core Tests"
+    },
+    {
+      "path": "./EDocument/Test/E-Document Core Tests/src/TestImplementations"
     },
     {
       "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
