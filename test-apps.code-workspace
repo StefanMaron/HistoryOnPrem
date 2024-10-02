@@ -115,6 +115,9 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/teststabilitytools"
+    },
+    {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
     },
     {
@@ -202,6 +205,9 @@
       "path": "./DKCore/Test/DK Core Tests/src/TestLibraries"
     },
     {
+      "path": "./DataSearch/test/Data Search Tests"
+    },
+    {
       "path": "./DataArchive/test/Data Archive Tests"
     },
     {
@@ -215,6 +221,9 @@
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./Intrastat/Test/Intrastat Core Tests"
     }
   ],
   "settings": {
