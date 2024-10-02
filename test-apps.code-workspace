@@ -139,6 +139,9 @@
       "path": "./system application/source/System Application/Email/src/Test Email"
     },
     {
+      "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
+    },
+    {
       "path": "./Email - Outlook REST API/Test"
     },
     {
