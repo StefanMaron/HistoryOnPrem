@@ -139,6 +139,9 @@
       "path": "./FIK/Test/Payment and Reconciliation Formats (DK) Tests"
     },
     {
+      "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
+    },
+    {
       "path": "./VATReportsDK/Test/Tax File Formats (DK) Tests"
     },
     {
