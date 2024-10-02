@@ -1,8 +1,8 @@
 {
   "settings": {
+    "al.enableCodeActions": false,
     "al.enableCodeAnalysis": false,
     "allint.enabled": false,
-    "al.enableCodeActions": false,
     "search.exclude": {
       "**.xlf": true
     }
@@ -160,9 +160,6 @@
     },
     {
       "path": "./EDocument/Test/E-Document Core Tests"
-    },
-    {
-      "path": "./EDocument/Test/E-Document Core Tests/src/TestImplementations"
     },
     {
       "path": "./simplifiedbankstatementimport/test/Simplified Bank Statement Import Test"
