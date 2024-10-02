@@ -145,9 +145,6 @@
       "path": "./UKPostcodeGetAddressIO/Test/GetAddress.io UK Postcodes Tests"
     },
     {
-      "path": "./EDocument/Test/E-Document Core Tests"
-    },
-    {
       "path": "./UKSendRemittanceAdvice/Test/Send remittance advice by email Tests"
     },
     {
@@ -227,6 +224,9 @@
     },
     {
       "path": "./ContosoCoffeeDemoDataset/Test/Contoso Coffee Demo Dataset Tests/src/TestImplementations"
+    },
+    {
+      "path": "./EDocument Core/Test/E-Document Core Tests"
     },
     {
       "path": "./ImageAnalysis/Test/Image Analyzer Tests"
