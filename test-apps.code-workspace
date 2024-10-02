@@ -145,9 +145,6 @@
       "path": "./BusinessFoundation/Test/Business Foundation Tests"
     },
     {
-      "path": "./EDocument/Test/E-Document Core Tests"
-    },
-    {
       "path": "./CashDeskLocalizationForCzech/Test/Cash Desk Localization for Czech Tests"
     },
     {
@@ -224,6 +221,9 @@
     },
     {
       "path": "./CoreLocalizationPackForCzech/Test/Core Localization Pack for Czech Tests"
+    },
+    {
+      "path": "./EDocument Core/Test/E-Document Core Tests"
     },
     {
       "path": "./FixedAssetLocalizationForCzech/Test/Fixed Asset Localization for Czech Tests"
