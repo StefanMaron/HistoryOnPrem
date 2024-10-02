@@ -106,6 +106,9 @@
       "path": "./recommendedapps/test/Recommended Apps Tests"
     },
     {
+      "path": "./saf-t/test/SAF-T Tests"
+    },
+    {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
@@ -122,6 +125,9 @@
     },
     {
       "path": "./testframework/TestRunner/Test Runner"
+    },
+    {
+      "path": "./SAFTModificationDK/Test/SAF-T Modification DK Tests"
     },
     {
       "path": "./system application/test/System Application Test"
@@ -218,6 +224,9 @@
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
+    },
+    {
+      "path": "./paymentpractices/test/Payment Practices Tests"
     }
   ],
   "settings": {
