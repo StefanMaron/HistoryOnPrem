@@ -181,7 +181,13 @@
       "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
     },
     {
+      "path": "./ErrorMessagesWithRecommendations/test/Error Messages with Recommendations Tests"
+    },
+    {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
+    },
+    {
+      "path": "./EU3PartyTradePurchase/test/EU 3-Party Trade Purchase Tests"
     },
     {
       "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
