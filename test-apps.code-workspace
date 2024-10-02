@@ -126,6 +126,9 @@
       "path": "./TestFramework/TestRunner/Test Runner"
     },
     {
+      "path": "./vatgroupmanagement/test/VAT Group Management Tests"
+    },
+    {
       "path": "./APIV1/Test/_Exclude_APIV1_ Tests"
     },
     {
