@@ -132,6 +132,9 @@
       "path": "./apiv1/test/APIV1Test"
     },
     {
+      "path": "./vatgroupmanagement/test/VATGroupManagementTest"
+    },
+    {
       "path": "./hybridbc/test/HybridBCTest"
     },
     {
